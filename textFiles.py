@@ -56,7 +56,3 @@ try:
    p.getParagraphs()
 except IOError:
     print("The file doesn't exist.")
-            
-        
-        
-        
