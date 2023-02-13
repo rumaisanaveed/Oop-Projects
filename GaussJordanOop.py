@@ -42,6 +42,3 @@ user_confirmation = "Y"
 while user_confirmation != "N":
       o.elementaryRowOperations()
       user_confirmation = str(input("Enter Y to continue and N to quit:"))
- 
-        
-        
