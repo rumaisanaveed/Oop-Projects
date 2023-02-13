@@ -41,9 +41,6 @@ if len(A) == len(B[0]):
      finalMatrix = printMatrix(result)
 else:
     print("Matrix multiplication is not possible.")
-##
-##
-##
 
 #ADDITION OF MATRICES
 
@@ -85,28 +82,3 @@ A = inputMatrix()
 B = inputMatrix()
 s_matrix = addMatrices(A,B)
 answer = printMatrix(s_matrix)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
